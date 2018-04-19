@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="205px" viewBox="0 0 173 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>noisemaker</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="noisemaker" fill-rule="nonzero">
+            <g id="Group" transform="translate(13.000000, 102.000000)" fill="#FF3B33">
+                <polygon id="Shape" points="24.7367188 70.2447977 24.7367188 103 0.341015625 103 0.341015625 70.2447977 12.5386719 65.7352412"></polygon>
+                <polygon id="Shape" points="24.7367188 4.73479377 24.7367188 37.4899961 12.5386719 41.9995525 0.341015625 37.4899961 0.341015625 4.73479377 12.5386719 0.224836576"></polygon>
+            </g>
+            <g id="Group" transform="translate(13.000000, 69.000000)" fill="#FF8985">
+                <rect id="Rectangle-path" x="0.341015625" y="70.0811202" width="24.3957031" height="32.6282442"></rect>
+                <rect id="Rectangle-path" x="0.341015625" y="0.327763566" width="24.3957031" height="37.1251124"></rect>
+            </g>
+            <rect id="Rectangle-path" fill="#FF3B33" x="13" y="0" width="25" height="18"></rect>
+            <rect id="Rectangle-path" fill="#2EAAB6" x="39" y="23" width="98" height="43"></rect>
+            <rect id="Rectangle-path" fill="#FFD085" x="9" y="23" width="34" height="43"></rect>
+            <path d="M23,23 L23,47.6113652 C23,49.4831443 24.5667062,51 26.5,51 C28.4332938,51 30,49.4831443 30,47.6113652 L30,23 L23,23 Z" id="Shape" fill="#FF8985"></path>
+            <path d="M173,26.6089482 L173,60.3910518 C173,67.8760136 166.941391,74 159.536335,74 L0,74 L0,60.3910518 L132.609005,60.3910518 L132.609005,26.6089482 L0,26.6089482 L0,13 L159.536734,13 C166.941391,13 173,19.1239864 173,26.6089482 Z" id="Shape" fill="#3DE2F3"></path>
+        </g>
+    </g>
+</svg>

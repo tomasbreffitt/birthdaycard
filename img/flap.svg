@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="141px" viewBox="0 0 301 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>flap</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M151.07,139 C144.170423,139 137.701347,136.158153 131.662773,130.474458 C87.6468389,87.4848172 44.525986,44.9326629 2.30021433,2.81799509 C1.45868668,1.887235 1.0252819,0.947903298 1,0 L301,0 C300.88093,0.323124802 300.726203,0.549340637 300.535818,0.678647505 C300.106808,0.970025771 256.18469,44.2352959 168.769463,130.474458 C163.869397,136.158153 157.969577,139 151.07,139 Z" id="path-1"></path>
+        <filter x="-0.5%" y="-0.8%" width="101.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.150000006" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.227581522 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flap">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#4BF23F" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

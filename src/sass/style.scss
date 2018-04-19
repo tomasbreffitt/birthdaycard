@@ -1,0 +1,70 @@
+body {
+  background: purple;
+  margin: 0;
+}
+
+.pages-wrapper {
+  background: white;
+  max-width: 600px;
+  width: 90%;
+  margin: 0 auto 0;
+}
+
+div.envelope {
+  height: 200vh;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  &-inner {
+    display: flex;
+    justify-content: center;
+    max-width: 90%;
+    margin: 0 auto;
+
+    &.stack {
+      flex-direction: column;
+
+      .text {
+        max-width: 100%;
+        display: block;
+      }
+    }
+  }
+}
+
+.intro {
+  height: 100vh;
+}
+.envelope-wrapper img {
+  display: block;
+  margin: 0 auto;
+  max-width: 400px;
+}
+.text {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5rem;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+.image.left {
+  order: -1;
+}
+.image {
+  .left {
+    order: -1;
+  }
+  img {
+    margin: 20px;
+  }
+}

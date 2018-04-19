@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="141px" viewBox="0 0 301 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>flap_inside</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M150.07,139 C143.170423,139 136.701347,136.158153 130.662773,130.474458 C86.6468389,87.4848172 43.525986,44.9326629 1.30021433,2.81799509 C0.458686676,1.887235 0.0252818994,0.947903298 0,0 L300,0 C299.88093,0.323124802 299.726203,0.549340637 299.535818,0.678647505 C299.106808,0.970025771 255.18469,44.2352959 167.769463,130.474458 C162.869397,136.158153 156.969577,139 150.07,139 Z" id="path-1"></path>
+        <filter x="-0.5%" y="-0.8%" width="101.0%" height="103.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.150000006" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.227581522 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flap_inside" transform="translate(1.000000, 0.000000)">
+            <g id="flap-copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#4BF23F" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M129.881709,109.921172 C136.322947,115.973724 143.223394,119 150.583048,119 C157.942703,119 164.235936,115.973724 169.462747,109.921172 C245.535694,34.9972565 272.31185,7.68642311 279.842385,0 L300,0 C299.88093,0.323124802 299.726203,0.549340637 299.535818,0.678647505 C299.106808,0.970025771 255.18469,44.2352959 167.769463,130.474458 C162.869397,136.158153 156.969577,139 150.07,139 C143.170423,139 136.701347,136.158153 130.662773,130.474458 C86.6468389,87.4848172 43.525986,44.9326629 1.30021433,2.81799509 C0.458686676,1.887235 0.0252818994,0.947903298 0,0 L14.7943004,1.66533454e-14 C58.2738529,43.1569034 83.8212006,65.0098956 129.881709,109.921172 Z" id="Combined-Shape" fill="#0C1D0B" opacity="0.14770154"></path>
+        </g>
+    </g>
+</svg>
