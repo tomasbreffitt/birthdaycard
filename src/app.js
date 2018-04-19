@@ -49,7 +49,7 @@ $(function() {
 
   new ScrollMagic.Scene({
     triggerElement: '.envelope',
-      duration: "1000",
+      duration: "3000",
       triggerHook: "onLeave"
     })
     .setTween(tween)
@@ -60,7 +60,7 @@ $(function() {
     // create a scene
     new ScrollMagic.Scene({
       triggerElement: '#page-wrapper-' + i,
-    		duration: 500,
+    		duration: 200,
         triggerHook: "onLeave"
     	})
     	.setPin("#page-" + i)
