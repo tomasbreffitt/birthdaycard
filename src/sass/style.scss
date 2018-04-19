@@ -5,7 +5,6 @@ body {
 
 .pages-wrapper {
   background: white;
-  max-width: 600px;
   width: 95%;
   margin: 0 auto 0;
 }
@@ -24,6 +23,7 @@ div.envelope {
     justify-content: center;
     max-width: 95%;
     margin: 0 auto;
+    zoom: 1.5;
 
     &.stack {
       flex-direction: column;
